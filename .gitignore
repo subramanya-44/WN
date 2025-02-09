@@ -1,0 +1,7 @@
+/.cache
+/dist
+node_modules
+/.DS_Store
+/server/lib
+Library/Caches/Firefox/
+Library/Caches/Firefox/Profiles/f8ofzeam.default-release
